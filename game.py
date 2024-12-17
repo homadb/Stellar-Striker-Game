@@ -1,5 +1,5 @@
 import sys
-
+from settings import Settings
 import pygame
 
 class StellarStriker:
